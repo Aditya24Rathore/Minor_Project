@@ -3,7 +3,8 @@
 
 <h3>Home Page</h3>
 
-![image](https://github.com/user-attachments/assets/f4429cc7-edfb-4405-a559-80032f42e3b3)
+![Screenshot 2024-12-11 021111](https://github.com/user-attachments/assets/4dbf6ea8-8320-40d7-bc23-542dff026b63)
+
 
 <h3>About Us Page</h3>
 
